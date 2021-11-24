@@ -1,2 +1,2 @@
 # Mamayukero-GetKey
-{    "M4PH4X": [       {          "key": "",          "link": "https://duit.cc/U3OEm",          "version": 3.7       }    ] }
+{    "M4PH4X": [       {          "key": "V40",          "link": "https://duit.cc/U3OEm",          "version": 3.7       }    ] }
